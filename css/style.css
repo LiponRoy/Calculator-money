@@ -1,0 +1,51 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	/* using font */
+	font-family: 'Roboto', sans-serif;
+}
+
+/* // top heading */
+.topHeading {
+	font-size: 32px;
+	font-weight: 500;
+	color: rgb(66, 116, 133);
+}
+
+/* inputs decaretion */
+.my-inputs {
+	background-color: rgb(241, 241, 241);
+	color: rgb(0, 0, 0);
+	border: 1px solid rgb(223, 223, 223);
+	padding-left: 8px;
+	margin-top: 4px;
+}
+
+/* right side of page*/
+.RightSide {
+	background-color: rgb(156, 203, 218);
+	padding: 12px;
+	border: 2px solid rgb(66, 116, 133);
+	margin-top: 6px;
+}
+/* left side of page*/
+.leftSide {
+	border: 2px solid rgb(66, 116, 133);
+	border-bottom-left-radius: 4px;
+	margin-bottom: 5px;
+}
+
+/* for text bold */
+.boldText {
+	font-weight: 500;
+	font-size: 17px;
+	margin-right: 5px;
+}
+.exp_blance {
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
